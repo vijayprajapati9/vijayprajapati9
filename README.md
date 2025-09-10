@@ -38,19 +38,6 @@ Beyond coding, I’m driven by a mindset of **continuous growth and curiosity**,
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayprajapati09&show_icons=true&theme=tokyonight" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayprajapati09&theme=tokyonight" height="150"/>  
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayprajapati09&layout=compact&theme=tokyonight" height="150"/>  
-</p>  
-
----
-
 ## 🌍 Connect with Me  
 
 <p align="center">
