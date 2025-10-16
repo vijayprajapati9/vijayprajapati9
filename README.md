@@ -68,6 +68,10 @@ Beyond coding, I’m driven by a mindset of **continuous growth and curiosity**,
 </p>  
 
 ---
+## 🚀 Live Site  
+🔗 [vijayprajapati9.github.io/portfolio](https://vijayprajapati9.github.io/portfolio/)
+
+---
 
 ## ✨ Quote  
 
