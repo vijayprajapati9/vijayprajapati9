@@ -8,6 +8,11 @@
 
 ---
 
+## 🚀 Live Site  
+🔗 https://vijay-portfolio-i264wp0ni-vijayprajapati9s-projects.vercel.app/
+
+---
+
 ## 👨‍💻 About Me  
 
 I’m an aspiring **Frontend Developer** deeply passionate about crafting **clean, modern, and responsive** web applications.  
@@ -66,10 +71,6 @@ Beyond coding, I’m driven by a mindset of **continuous growth and curiosity**,
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
 </p>  
-
----
-## 🚀 Live Site  
-🔗 https://vijay-portfolio-i264wp0ni-vijayprajapati9s-projects.vercel.app/
 
 ---
 
